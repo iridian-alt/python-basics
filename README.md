@@ -1,4 +1,4 @@
-# PYTHON BASICS  
+# PYTHON BASICS🐍
 ##### Understand how python works.
 
 * Variable
