@@ -1,0 +1,3 @@
+len()
+print()
+input()
